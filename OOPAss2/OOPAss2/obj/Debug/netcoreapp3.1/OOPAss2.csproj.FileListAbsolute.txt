@@ -1,0 +1,11 @@
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.exe
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.deps.json
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.runtimeconfig.json
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.runtimeconfig.dev.json
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.dll
+F:\Uni Work\OOPAss2\OOPAss2\bin\Debug\netcoreapp3.1\OOPAss2.pdb
+F:\Uni Work\OOPAss2\OOPAss2\obj\Debug\netcoreapp3.1\OOPAss2.csprojAssemblyReference.cache
+F:\Uni Work\OOPAss2\OOPAss2\obj\Debug\netcoreapp3.1\OOPAss2.AssemblyInfoInputs.cache
+F:\Uni Work\OOPAss2\OOPAss2\obj\Debug\netcoreapp3.1\OOPAss2.AssemblyInfo.cs
+F:\Uni Work\OOPAss2\OOPAss2\obj\Debug\netcoreapp3.1\OOPAss2.dll
+F:\Uni Work\OOPAss2\OOPAss2\obj\Debug\netcoreapp3.1\OOPAss2.pdb
